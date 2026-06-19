@@ -4,6 +4,7 @@ you spin the thingy, it will:
   shoot via your current core
   reload your other core
   swap your core
+  oh also it moves the bullet chain by 1
 basically it, and the cores are bolt action
 basically it just umm solves the downtime of snipers cuz yk, swap
 
